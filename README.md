@@ -17,4 +17,4 @@ This is the wrapper script for running the IgAnalysis_Workflow.py pipeline
 ```
 python RunIgAnalysis.py
 ```
-
+- Note: In order to run docker as a sudoer, your password might be asked by the operating system.
